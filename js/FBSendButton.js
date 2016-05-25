@@ -23,9 +23,6 @@
 
 import React, {
   PropTypes,
-} from 'react';
-
-import {
   requireNativeComponent,
   StyleSheet,
   View,

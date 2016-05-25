@@ -24,12 +24,9 @@
 
 import React, {
   PropTypes,
-} from 'react';
-
-import {
- requireNativeComponent,
- StyleSheet,
- View,
+  requireNativeComponent,
+  StyleSheet,
+  View,
 } from 'react-native';
 
 import type { ShareContent } from './models/FBShareContent';
